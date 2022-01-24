@@ -1,0 +1,29 @@
+{
+  "DefaultHost": "",
+  "DefaultWorkspaceRoot": "",
+  "LocalWorkspaceRoot": "",
+  "RsyncFlags": [],
+  "Exclude": [
+    "dist",
+    "/*/.idea",
+    "/.remote-dev-sync-target",
+    "/*/build",
+    "*.iml",
+    ".DS_Store",
+    "node_modules",
+    "/*/node_modules",
+    "bower_components",
+    "/*/bower_components",
+    "dist",
+    "coverage",
+    "package-lock.json"  
+  ],
+  "Workspaces": [
+    {
+      "LocalSync": "/Users/xrunzhi/workspace/myjob/C2jQuickSight/src",
+      "RemoteHost": "xrunzhi.aka.corp.amazon.com",
+      "RemoteSync": "/home/xrunzhi/workspace/my_job/C2jQuickSight/src",
+      "Exclude": []
+    }
+  ]
+}
